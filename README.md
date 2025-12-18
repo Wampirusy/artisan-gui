@@ -1,10 +1,4 @@
-[![Latest Version](https://img.shields.io/packagist/v/intervention/image.svg)](https://packagist.org/packages/tachii/artisan-gui)
-
-> Updated original artisan-gui package to work with Laravel 12 & PHP8.4
->
-> Old version is still available at [infureal/artisan-gui](https://github.com/infureal/artisan-gui)
-
-<img src="https://raw.githubusercontent.com/inFureal/git-images/main/artisan-gui.png" style="max-width: 100%"  alt="Artisan GUI"/>
+[![Latest Version](https://img.shields.io/packagist/v/intervention/image.svg)](https://packagist.org/packages/wampirusy/artisan-gui)
 
 # <a href="https://laravel.com" target="_blank"><img src="https://laravel.com/img/logotype.min.svg" width="100"></a>:artisan gui
 
@@ -12,7 +6,7 @@ Simple but yet powerful library for running some [artisan](https://laravel.com/d
 
 ## Requirements
 
-- **Laravel** 10.*
+- **Laravel** 10.*, 11.*, 12.*
 - **php** ^8
 
 ## Installation
@@ -20,7 +14,7 @@ Simple but yet powerful library for running some [artisan](https://laravel.com/d
 Just install package:
 
 ```bash
-composer require Tachii/artisan-gui
+composer require wampirusy/artisan-gui
 ```
 
 ### Vendor publishing

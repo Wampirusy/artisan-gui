@@ -1,7 +1,7 @@
 {
-  "name": "tachii/artisan-gui",
+  "name": "wampirusy/artisan-gui",
   "type": "library",
-  "description": "Beautiful package for [laravel:artisan] gui for cool kids.",
+  "description": "Beautiful package for [laravel:artisan] gui for ghoul cats.",
   "license": "MIT",
   "minimum-stability": "beta",
   "require": {
